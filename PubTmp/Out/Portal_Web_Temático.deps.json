@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Portal_Web_Temático/1.0.0": {
+        "runtime": {
+          "Portal_Web_Temático.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Portal_Web_Temático/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
