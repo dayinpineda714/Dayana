@@ -1,0 +1,7 @@
+D:\Portal_Web\Portal_Web_Temático\Portal_Web_Temático\obj\Release\net8.0\PubTmp\Out\Portal_Web_Temático.exe
+D:\Portal_Web\Portal_Web_Temático\Portal_Web_Temático\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Portal_Web\Portal_Web_Temático\Portal_Web_Temático\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Portal_Web\Portal_Web_Temático\Portal_Web_Temático\obj\Release\net8.0\PubTmp\Out\Portal_Web_Temático.dll
+D:\Portal_Web\Portal_Web_Temático\Portal_Web_Temático\obj\Release\net8.0\PubTmp\Out\Portal_Web_Temático.deps.json
+D:\Portal_Web\Portal_Web_Temático\Portal_Web_Temático\obj\Release\net8.0\PubTmp\Out\Portal_Web_Temático.runtimeconfig.json
+D:\Portal_Web\Portal_Web_Temático\Portal_Web_Temático\obj\Release\net8.0\PubTmp\Out\Portal_Web_Temático.pdb
